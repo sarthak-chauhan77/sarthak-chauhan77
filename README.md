@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarthakchauhan 
-- 👀 I’m interested in coding 
+- 👀 I’m interested in travelling 
 - 🌱 I’m currently learning java & flutter
 - 💞️ I’m looking to collaborate on flutter
 
