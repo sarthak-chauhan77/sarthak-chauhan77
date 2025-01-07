@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarthakchauhan 
 - 🌱 Currently learning java & flutter
-- 💞️ looking to collaborate on java
+- 💞️ looking to collaborate in java
 
 <!---
 sarthak-chauhan77/sarthak-chauhan77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
